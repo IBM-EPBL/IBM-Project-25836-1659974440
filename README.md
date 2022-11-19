@@ -16,6 +16,13 @@ We use Artificial neural networks to train these images and build a deep learnin
 Web application is created where the user can upload an image of a handwritten digit. 
 this image is analyzed by the model and the detected result is returned on to UI.# Project Description:# Project Overview:
 
+# Team Members
+
+TEAM LEADER : NILESH A
+TEAM MEMBER !: AJITH R
+TEAM MEMBER 2 : CHARAN V
+TEAM MEMBER 3 : SWETHA SREE K
+
 # Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/104055809/202850278-c5302fd8-896c-4e1a-b7ce-ad29df2be6c6.png)
